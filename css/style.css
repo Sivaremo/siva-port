@@ -1310,7 +1310,7 @@ a:focus {
 }
 
 .contact .container-fluid {
-    background: url(../img/contact.jpg) left center no-repeat;
+    background: url("https://img.freepik.com/premium-photo/person-coding-project-laptop_1079150-36836.jpg") left center no-repeat;
     background-size: contain;
 }
 
