@@ -32,3 +32,4 @@ document.getElementById('downloadResume').addEventListener('click', function () 
             alert('Failed to download the file. Please try again.');
         });
 });
+
