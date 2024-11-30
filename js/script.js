@@ -1,6 +1,6 @@
 document.getElementById('downloadResume').addEventListener('click', function () {
     // Path to your resume file
-    const resumeUrl = '../Resume/Resume1.pdf';
+    const resumeUrl = '/Resume/Resume1.pdf';
 
     // Use fetch to retrieve the file
     fetch(resumeUrl)
